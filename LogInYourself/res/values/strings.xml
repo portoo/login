@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">LogInYourself</string>
+    <string name="struser">Usuario</string>
+    <string name="strpass">Contraseña</string>
+    <string name="strfacebook">Ingresar con Facebook</string>
+    <string name="srcacceptbutton">Aceptar</string>
+    <string name="facebook_app_id">394702417353824</string>
+    <string name="strSuccess">Correcto</string>
+    <string name="strfail">Fallo</string>
+
+</resources>
